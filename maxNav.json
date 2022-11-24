@@ -1,0 +1,28 @@
+[{
+    "navTitle": "about",
+    "navLink": "#about",   
+    "navTarget": "",
+    "navClass": "scrollPage",
+    "isnav": true
+},
+{
+    "navTitle": "portfolio",
+    "navLink": "#portfolio",   
+    "navTarget": "",
+    "navClass": "scrollPage",
+    "isnav": true
+},
+{
+    "navTitle": "interview",
+    "navLink": "#interview",   
+    "navTarget": "",
+    "navClass": "scrollPage",
+    "isnav": true
+},
+{
+    "navTitle": "contact",
+    "navLink": "#contact",   
+    "navTarget": "",
+    "navClass": "scrollPage",
+    "isnav": true
+}]
